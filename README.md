@@ -28,7 +28,7 @@ Python 3.x
 Las contribuciones son bienvenidas. Puedes abrir un pull request para agregar nuevas funcionalidades o mejorar las existentes.
 
 ## Autor
-Desarrollado por Mario.
+Desarrollado por k1llua.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
